@@ -668,7 +668,7 @@ Banner Style
 */
 
 .main-banner {
-  background-image: url(../images/wave-haikei.svg);
+  background-image: url(../images/banner-bg.jpg);
   background-position: right bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -676,15 +676,15 @@ Banner Style
 }
 
 .main-banner .item-1 {
-  /* background-image: url(../images/banner-item-01.jpg); */
+  background-image: url(../images/banner-item-01.jpg);
 }
 
 .main-banner .item-2 {
-  /* background-image: url(../images/banner-item-02.jpg); */
+  background-image: url(../images/banner-item-02.jpg);
 }
 
 .main-banner .item-3 {
-  /* background-image: url(../images/banner-item-03.jpg); */
+  background-image: url(../images/banner-item-03.jpg);
 }
 
 .main-banner .item {
